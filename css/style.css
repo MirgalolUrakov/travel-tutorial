@@ -1,0 +1,95 @@
+html{
+    box-sizing: border-box;
+}
+body{
+    font-family: Nunito;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    background-image: url(src/assets/fon.png); 
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+    margin-left: 89px;
+    margin-right: 90px;
+    
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+margin: 0 auto;
+width: 100%;
+min-height: 1328px;
+
+}
+a{
+    text-decoration: none;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+.header__list{
+    display: flex;
+    background-color: 
+    
+}
+.header__navbar{
+    align-items: center;
+    display: flex;
+    margin-left: 150px;
+}
+.header__list-item{
+    margin-left: 40px;
+}
+.header__list-active{
+
+
+}
+
+
+.button-header{
+    margin-le
+}
+
+.button-active{
+height: 35px;
+width: 86px;
+border-radius: 5px;
+background-color: rgba(56, 110, 65, 1);
+color: white;
+margin-right: 70px;
+margin-left: 70px;
+}
+.banner{
+    display: flex;
+    width: 100%;
+    background: url("/src/assets/fon.png") no-repeat right ;
+    min-height: 900px;
+    align-items: center;
+    
+}
+.banner__shap{
+    display: flex;
+    left: auto;
+    
+}
+.shap{
+    height: 120px;
+    width: 120px;
+    left: -35px;
+    top: 521px;
+    border-radius: 0px;
+    
+   
+}
+ div.banner__search{
+     margin-left: 80px;
+     margin-top: 70px;
+  
+ }
